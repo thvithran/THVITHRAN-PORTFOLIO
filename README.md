@@ -13,7 +13,7 @@ https://thvithran.github.io/Thvithran-Portfolio/
 * 👋 Hi, I’m Thvithran  
 * 😎 I’m a Frontend Web developer 
 * 💻 This is a personal portfolio website made with HTML, CSS and JS.
-* 🌍 Website: 
+* 🌍 Website: https://thvithran.github.io/Thvithran-Portfolio/
 * 📫 How to reach me thvithrankrishnan7117@gmail.com
 
 
