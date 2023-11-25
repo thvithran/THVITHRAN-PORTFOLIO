@@ -2,7 +2,7 @@
 My Personal Portfolio
 
 
-https://thvithran.github.io/Thvithran-Portfolio/
+
 ![Portfolio web model](https://github.com/thvithran/ThvithranPortfolio1/assets/73452153/6caacbfb-9acf-4e40-9ee9-f9e577417f72)
 
 
