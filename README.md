@@ -2,8 +2,9 @@
 My Personal Portfolio
 
 
+![Portfolio web model](https://github.com/thvithran/Thvithran-Portfolio/assets/73452153/fcebf0ba-4cc3-40de-8880-1851b6714306)
 
-![Portfolio web model](https://github.com/thvithran/ThvithranPortfolio1/assets/73452153/6caacbfb-9acf-4e40-9ee9-f9e577417f72)
+
 
 
 
